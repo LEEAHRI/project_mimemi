@@ -4,6 +4,11 @@
 
 배달료 인상으로 인한 부담과 점심 메뉴 고민에 지친 2030대를 겨냥한 도시락 정기구독 서비스입니다.
 
+## ERD
+
+<img src="https://user-images.githubusercontent.com/71698417/169643027-9fb5d9d7-3fa2-4992-bb98-43a340b2b7a5.png" width="500">
+
+
 ## 주요 기능
 
 - 회원
