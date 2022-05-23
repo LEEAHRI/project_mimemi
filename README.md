@@ -24,11 +24,3 @@
     4. 쿠폰 관리
     5. 게시판 관리
 
-## 개발 환경
-
-- OS: Window, Mac
-- 데이터베이스: Oracle Cloud
-- 개발 언어: Java, HTML5, CSS3, Java Script, jQuery
-- 형상 관리: git, sourcetree, github
-- 개발툴: Eclipse, Visual Studio Code, SQL Developer
-- 협업툴: Notion, Slack
