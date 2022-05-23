@@ -25,4 +25,4 @@
     5. 게시판 관리
 
 ## 화면
-<img width="716" src="https://user-images.githubusercontent.com/71698417/169727186-54af53cd-3aa2-4e46-a92a-2f4a77e46b08.png">
+<p align="center"><img width="716" src="https://user-images.githubusercontent.com/71698417/169727186-54af53cd-3aa2-4e46-a92a-2f4a77e46b08.png"></p>
